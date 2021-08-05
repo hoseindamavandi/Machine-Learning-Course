@@ -1,3 +1,3 @@
 # Machine-Learning-exercises
 
-practic in the machine learning course
+Practics in the machine learning course
